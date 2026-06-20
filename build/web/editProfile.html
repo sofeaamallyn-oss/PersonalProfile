@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Edit Profile</title>
+        
+        <style>
+            
+            body{
+                font-family: Arial;
+                background: #ffe6f2;
+            }
+            
+            .container{
+                width: 400px;
+                margin: 100px auto;
+                background: white;
+                padding: 25px;
+                border-radius: 10px;
+                box-shadow: 0px 0px 10px gray;
+            }
+            
+            input{
+                width: 100%;
+                padding: 10px;
+                margin-top: 10px;
+                margin-bottom: 20px;
+                box-sizing: border-box;
+            }
+            
+            button{
+                width: 100%;
+                padding: 12px;
+                background: #cc0066;
+                color: white;
+                border: none;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h2>Edit Profile</h2>
+            <form action="EditServlet" method="post">
+                Student ID:
+                <input type="text" name="studentID" required>
+                <button type="submit">
+                    Search Profile
+                </button>
+            </form>
+            
+        </div>
+    </body>
+</html>
