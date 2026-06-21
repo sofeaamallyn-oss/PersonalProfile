@@ -21,16 +21,22 @@ This project is a web-based Personal Profile Management System developed using J
 ## Screenshots of the System
 
 ### 1. Personal Profile Form
-(Insert screenshot here)
+<img width="837" height="791" alt="image" src="https://github.com/user-attachments/assets/572bccb4-9348-457e-ba7a-29d9164b2c09" />
 
 ### 2. Profile Result
-(Insert screenshot here)
+<img width="725" height="713" alt="Screenshot 2026-06-21 180503" src="https://github.com/user-attachments/assets/11214bb9-c130-48ba-9726-d829b1140eb3" />
 
 ### 3. View All Profiles
-(Insert screenshot here)
+<img width="1876" height="555" alt="Screenshot 2026-06-21 180555" src="https://github.com/user-attachments/assets/5729b85f-d7f6-45da-9c9c-3cae64fb49a9" />
 
-### 4. Search Profile
-(Insert screenshot here)
+### 4. Option A- Search Profile
+<img width="1013" height="507" alt="Screenshot 2026-06-21 180725" src="https://github.com/user-attachments/assets/6c283a0a-b999-413b-982d-956df6f42024" />
+<img width="678" height="500" alt="Screenshot 2026-06-21 180801" src="https://github.com/user-attachments/assets/e9922996-370a-4591-98d8-5e04621c3fcf" />
 
-### 5. Edit Profile
-(Insert screenshot here)
+### 5. Option B- Edit Profile
+<img width="1797" height="476" alt="Screenshot 2026-06-21 180930" src="https://github.com/user-attachments/assets/2c37fd19-a0f5-4b56-a0cc-49273d0f92f7" />
+<img width="753" height="779" alt="Screenshot 2026-06-21 180903" src="https://github.com/user-attachments/assets/1c31b797-6293-482a-b2a1-95b0691e78d5" />
+
+### 6. Option C- Delete Profile
+<img width="1911" height="701" alt="Screenshot 2026-06-21 181114" src="https://github.com/user-attachments/assets/7bd81975-4b3c-4d83-b5e8-433bd6038860" />
+<img width="1802" height="491" alt="Screenshot 2026-06-21 181134" src="https://github.com/user-attachments/assets/8a350616-c867-4e07-b927-5f2fca01b655" />
