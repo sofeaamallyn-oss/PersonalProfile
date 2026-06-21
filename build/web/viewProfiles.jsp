@@ -49,16 +49,25 @@
                color:white;
             }
             
+            .top-bar{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 20px;
+            }
+            
+            .top-bar h2{
+                margin: 0;
+                color: #cc0066;
+            }
+            
             .btn{
-                display: block;
-                width: 200px;
-                text-align: center;
-                background-color: #cc0066;
+                background: #cc0066;
                 color: white;
                 padding: 10px 20px;
                 text-decoration: none;
                 border-radius: 8px;
-                margin: 10px;
+                font-weight: bold;
             }
             
             .btn:hover{
@@ -71,10 +80,14 @@
    <body>
        <div class="container">
            <h2>All Profile</h2>
+           <div class="top-bar">
+               
+               <a href="searchProfile.html" class="btn">Search Profile</a>
+               
+               <a href="profile.html" class="btn"> + Add New Profile</a>
+           </div>
            
-           <a href="searchProfile.html" class="btn">Search Profile</a>
-           
-           
+ 
            <table>
                <tr>
                    <th>Student ID</th>
@@ -119,7 +132,7 @@
                %>
            </table>
            <br>
-           <a href="profile.html" class="btn">Add New Profile</a>
+           
        </div>
     </body>
 </html>
