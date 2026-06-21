@@ -27,10 +27,10 @@ This project is a web-based Personal Profile Management System developed using J
 <img width="725" height="713" alt="Screenshot 2026-06-21 180503" src="https://github.com/user-attachments/assets/11214bb9-c130-48ba-9726-d829b1140eb3" />
 
 ### 3. View All Profiles
-<img width="1876" height="555" alt="Screenshot 2026-06-21 180555" src="https://github.com/user-attachments/assets/5729b85f-d7f6-45da-9c9c-3cae64fb49a9" />
+<img width="1829" height="482" alt="image" src="https://github.com/user-attachments/assets/89d243f4-4f93-40be-a03e-30eaeee10664" />
 
 ### 4. Option A- Search Profile
-<img width="1013" height="507" alt="Screenshot 2026-06-21 180725" src="https://github.com/user-attachments/assets/6c283a0a-b999-413b-982d-956df6f42024" />
+<img width="694" height="529" alt="image" src="https://github.com/user-attachments/assets/f14cc4b0-444e-4ff4-91fd-63c5af4cf798" />
 <img width="678" height="500" alt="Screenshot 2026-06-21 180801" src="https://github.com/user-attachments/assets/e9922996-370a-4591-98d8-5e04621c3fcf" />
 
 ### 5. Option B- Edit Profile
