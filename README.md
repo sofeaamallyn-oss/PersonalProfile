@@ -27,11 +27,11 @@ This project is a web-based Personal Profile Management System developed using J
 <img width="725" height="713" alt="Screenshot 2026-06-21 180503" src="https://github.com/user-attachments/assets/11214bb9-c130-48ba-9726-d829b1140eb3" />
 
 ### 3. View All Profiles
-<img width="1829" height="482" alt="image" src="https://github.com/user-attachments/assets/89d243f4-4f93-40be-a03e-30eaeee10664" />
+<img width="1819" height="509" alt="Screenshot 2026-06-21 230640" src="https://github.com/user-attachments/assets/3c8dd8a6-52cb-4555-86c2-d5ebacc63ce9" />
 
 ### 4. Option A- Search Profile
-<img width="694" height="529" alt="image" src="https://github.com/user-attachments/assets/f14cc4b0-444e-4ff4-91fd-63c5af4cf798" />
-<img width="678" height="500" alt="Screenshot 2026-06-21 180801" src="https://github.com/user-attachments/assets/e9922996-370a-4591-98d8-5e04621c3fcf" />
+<img width="714" height="558" alt="Screenshot 2026-06-21 230722" src="https://github.com/user-attachments/assets/bcd49a94-821c-417d-8986-99b5c983365e" />
+<img width="690" height="477" alt="Screenshot 2026-06-21 230756" src="https://github.com/user-attachments/assets/03599118-2071-4c1f-8381-b4047b5216fe" />
 
 ### 5. Option B- Edit Profile
 <img width="753" height="779" alt="Screenshot 2026-06-21 180903" src="https://github.com/user-attachments/assets/1c31b797-6293-482a-b2a1-95b0691e78d5" />
